@@ -13,7 +13,7 @@
 ```dart
 dynamic harun = {
   "pronouns" : "he" | "him",
-  "code": [Dart, Java, Go ,Swift, Javascript, HTML, CSS, Python],
+  "code": [Dart, Java, Python, Go ,Swift, Javascript, HTML, CSS],
   "tools": [Flutter, Dart SDK, Android SDK, Coredata],
   "architecture": ["Clean architecture", "event-driven", "design system pattern", "Waterfall model"],
   "goal": "To contribute to open source",
